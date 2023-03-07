@@ -1,20 +1,13 @@
-# Проект: Mesto
+# Project Mesto
 
-### Обзор
-* Интро
-* Описание
-* Посмотреть проект
+### About
+* Description
+* See project
 
-**Интро**
+**Description**
 
-Проект о путешественнике.
+Project about travelers.
 
-**Описание**
+**See project**
 
-Четвертая курсовая работа в рамках курса Яндекс практикум. Адаптивный сайт о путеешественике и его путешествиях, версия Ефимовой Анны.
-
-**Посмотреть проект**
-
-* [Ссылка на проект](https://annaryabko.github.io/mesto-react/)
-
-Спасибо!
+* [Link](https://annaryabko.github.io/mesto-react/)
